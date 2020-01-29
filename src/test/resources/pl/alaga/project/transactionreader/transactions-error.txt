@@ -1,0 +1,2 @@
+2,2020-01-11,Żarówki,1234.56 PLN
+1,2020-01-01,Rachunek za wodę,xxxx
